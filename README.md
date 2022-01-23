@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhiljain-413
+- 👋 Hi, I’m @nikhiljain
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
