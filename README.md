@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Nikhil Jain</h1>
 <h3 align="center">A passionate undergrad students, who's always enthusiastic about learning and gaining experiences</h3>
 <div align="center">
-<img src="<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fnikhiljain-413&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" />" />
-<img src="https://komarev.com/ghpvc/?username=nikhiljain-413&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiljain-413" /> </p>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnikhiljain-413&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" />
+<img src="https://komarev.com/ghpvc/?username=nikhiljain-413&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiljain-413" />
 </div>
 - 🔭 I’m currently working on **problem solving skills,**
 
