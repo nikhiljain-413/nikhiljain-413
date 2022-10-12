@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, Nikhil Jain</h1>
 <h3 align="center">A passionate undergrad students, who's always enthusiastic about learning and gaining experiences</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Nikhil+Jain;Python+Developer;Web-Developer;Data-Science+Enthusiastic)](https://git.io/typing-svg)
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Nikhil+Jain;Python+Developer;Web-Developer;Data-Science+Enthusiastic">
+</p>
 <br>
 <h3><p align = "justify"> I am Nikhil Jain from Jabalpur, MadhyaPradesh. Currently I am a Final year graduate of B.Tech in Computer Science and Engineering From Jabalpur Enginerring College, Jabalpur, with 8.85 CGPA</p></h3>
 
