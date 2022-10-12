@@ -38,3 +38,12 @@
  <p align='center'>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhiljain-413&theme=dark" width="494" title="Github Streak Stats">
 </p>
+<hr>
+
+[![@nikhiljain-413's Holopin board](https://holopin.io/api/user/board?user=nikhiljain413)](https://holopin.io/@nikhiljain413)
+
+<hr>
+
+<p align="center">Nominate <a href="https://github.com/nikhiljain-413">Nikhil Jain</a> to 
+	<a href='https://stars.github.com/nominate/'>Github Stars ⭐</a>
+</p>
