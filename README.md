@@ -3,7 +3,7 @@
 <div align="center">
 <hr>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnikhiljain-413&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" />
-<img src="https://komarev.com/ghpvc/?username=nikhiljain-413&label=Profile%20views&color=hrightgreen&style=flat" alt="nikhiljain-413" />
+<img src="https://komarev.com/ghpvc/?username=nikhiljain-413&label=Profile%20views&color=brightgreen&style=flat" alt="nikhiljain-413" />
 </div>
 - 🔭 I’m currently working on **problem solving skills,**
 
