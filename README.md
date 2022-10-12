@@ -40,7 +40,7 @@
 </p>
 <hr>
 
-[![@nikhiljain-413's Holopin board](https://holopin.io/api/user/board?user=nikhiljain413)](https://holopin.io/@nikhiljain413)
+[![@nikhiljain413's Holopin board](https://holopin.io/api/user/board?user=nikhiljain413)](https://holopin.io/@nikhiljain413)
 
 <hr>
 
