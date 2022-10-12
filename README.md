@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, Nikhil Jain</h1>
 <h3 align="center">A passionate undergrad students, who's always enthusiastic about learning and gaining experiences</h3>
+<div align="center">
+	📫 How to reach me **nikhiljain28806@gmail.com**
+</div>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Nikhil+Jain;Python+Developer;Web-Developer;Data-Science+Enthusiastic">
 </p>
