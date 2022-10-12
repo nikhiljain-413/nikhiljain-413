@@ -7,7 +7,7 @@
 </div>
 - 🔭 I’m currently working on **problem solving skills,**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms,React Js**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhiljain-413](https://github.com/nikhiljain-413)
 
