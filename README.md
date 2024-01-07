@@ -4,7 +4,7 @@
 	📫 How to reach me **nikhiljain28806@gmail.com**
 </div>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Nikhil+Jain;Python+Developer;Web-Developer;Data-Science+Enthusiastic">
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Nikhil+Jain;Java+Developer;Web-Developer;Data-Science+Enthusiastic">
 </p>
 <h3><p align = "justify"> I am Nikhil Jain from Jabalpur, MadhyaPradesh. Currently I am a Final year graduate of B.Tech in Computer Science and Engineering From Jabalpur Enginerring College, Jabalpur, with 8.85 CGPA</p></h3>
 
